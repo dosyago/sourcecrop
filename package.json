@@ -1,0 +1,25 @@
+{
+  "name": "sourcecrop",
+  "type": "module",
+  "version": "1.0.4",
+  "description": "sc - cat functions out of source code with autocomplete",
+  "main": "sc.js",
+  "bin": {
+    "sc": "sc.js"
+  },
+  "scripts": {
+    "postinstall": "bash ./install.sh",
+    "test": "node sc.js"
+  },
+  "keywords": [
+    "source",
+    "crop",
+    "cat",
+    "function"
+  ],
+  "author": "@dosy",
+  "license": "AGPL-3.0",
+  "dependencies": {
+    "acorn": "^8.12.1"
+  }
+}

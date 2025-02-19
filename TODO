@@ -1,0 +1,5 @@
+- call sourcecrop
+- post on hn: Show HN: sourcecrop - see parts of source files from the command line with autocomplete
+- post on hn: Show HN: sourcecrop - pull syntax from source files at command line with autocomplete
+- post on hn: Show HN: sourcecrop - syntax-aware crop of source files at the command line with autocomplete
+- if now -type is specified, then search all (class, function, variable, label, etc).
