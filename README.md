@@ -1,3 +1,6 @@
+
+<a href=https://asciinema.org/a/txcB6grATYEKret4f5OJz7ASH title="asciinema recording of sourcecrop"><img alt="sourcecrop in action" width="877" alt="Screenshot 2025-02-19 at 7 01 56 PM" src="https://github.com/user-attachments/assets/dfa03477-61ba-4c88-a77e-286bc5cc6517" /></a>
+
 # Sourcecrop (aka Spirit Catcher)
 
 sourcecrop is a command-line utility that displays code snippets (like functions, classes, or methods) from source files. It supports quick lookups, partial code extraction, and basic call analysis, making it easy to see what calls what in your JavaScript code. Other languages are on our roadmap.
